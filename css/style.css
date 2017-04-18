@@ -1,0 +1,113 @@
+
+.center {
+    text-align: center;
+}
+
+.text-capital {
+    text-transform: uppercase;
+}
+
+#header .logo {
+    margin-top: 20px;
+}
+
+#header .logo img {
+    width: 173px;
+    margin: 0 auto;
+    top: 0;
+}
+#main .background { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+@font-face { 
+    font-family: "Bell Mt";
+     src: url('bell-mt-58f50468e3c38.ttf'); 
+
+   
+} 
+h1{
+    font-family: "Bell Mt";
+}
+
+h2 { 
+    
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+
+}
+h4{
+    font-family: "Bell Mt";
+}
+#main .overlay-text {
+    position: relative;
+    top: -435px;
+}
+
+#main .matress {
+    position: relative;
+    top: -390px;
+
+  }
+
+  #main .matress2 {
+    position: relative;
+    top: -360px;
+    font-family: "Bell Mt"
+
+  }
+
+#main .marker {
+    position: relative;
+    height:65%;
+    width: 65%;
+    top: -290px;
+    bottom:0; left: 0; right:0;
+    display: block;
+    margin: 0; auto;
+margin-bottom: 45px;
+    background-repeat: no-repeat;
+    background-positon: center;
+    -webkit-background-size: 100% 100%;
+    background-size: 100%;
+}
+
+
+p{
+    font-family: "Bell Mt";
+}
+#main .logo {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#main .logo img {
+    margin: 0 auto;
+    width: 44px;
+}
+
+#main {
+    margin-top: 50px;
+}
+
+#main .center-col {
+    margin-top: 250px;
+    text-align: center;
+}
+
+#main h1 {
+    width: 350px;
+    margin: 0 auto;
+}
+
+footer#footer {
+    padding-top: 57px;
+    background: #fcf534;
+    font-family: GillSansStd,sans-serif;
+    font-size: 11px;
+    letter-spacing: .16em;
+    margin-top: 60px;
+    width: 100%;
+}
